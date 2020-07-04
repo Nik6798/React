@@ -1,0 +1,12 @@
+body{
+  margin-top: 2%;
+  background-color: #282c34;
+  text-align: center;
+}
+h1{
+  color: #fffdf9;
+}
+.heading{
+  font-family: 'Notable', sans-serif;
+  font-size: 3rem;
+}
